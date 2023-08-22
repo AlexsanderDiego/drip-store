@@ -6,7 +6,7 @@ function App() {
     <>
       <div>oi</div>
       <MinhaTag />
-      <h2>Atualizando...</h2>
+      <h2>Atualizando...de novo</h2>
     </>
   )
 }
